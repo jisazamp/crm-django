@@ -38,7 +38,7 @@ Asegúrate de tener instalado lo siguiente:
 5. **Instala las dependencias**:
    Asegúrate de que `pip` esté actualizado y luego instala las dependencias del proyecto:
    ```bash
-   pip install -r requirements.txt
+   pip install django django-crispy-forms crispy-bootstrap5
    ```
 
 6. **Configura la base de datos**:
